@@ -1,4 +1,4 @@
-# 🐦 Twitter Sentiment Analysis – Vergleich von TF-IDF+LinearSVC und BERT
+# Twitter Sentiment Analysis – Vergleich von TF-IDF+LinearSVC und BERT
 
 Dieses Projekt klassifiziert Tweets in **positive**, **neutrale** oder **negative** Kategorien.  
 Es kombiniert **klassische Machine-Learning-Methoden (TF-IDF + LinearSVC)** mit einem **kontextsensitiven Sprachmodell (BERT)**, um die Ergebnisse zu vergleichen.
